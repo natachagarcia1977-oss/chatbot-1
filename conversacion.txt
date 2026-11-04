@@ -1,0 +1,6 @@
+Historial de la conversaciónMensaje transmitido : hola
+Mensaje transmitido : bien 
+Mensaje transmitido : dime algo
+Mensaje transmitido : chiste
+Mensaje transmitido : ok
+Mensaje transmitido : adios
